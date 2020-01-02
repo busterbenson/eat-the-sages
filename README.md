@@ -1,4 +1,4 @@
-# sages
+# Eat The Sages
 An attempt to create my own personal mythology that:
 
 1. passes my own bullshit test 
